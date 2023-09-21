@@ -1,4 +1,4 @@
-# flask_blog
+# Blog Web in Flask Framework 	:cowboy_hat_face:
 
 ```
 mkdir flask_blog
@@ -10,3 +10,4 @@ export FLASK_APP=hello
 export FLASK_ENV=development
 flask run
 ```
+:sunglasses: :sunglasses:
