@@ -1,4 +1,4 @@
-# Blog Web Applicatio in Flask Framework 	:cowboy_hat_face:
+# Blog Web Application in Flask Framework 	:cowboy_hat_face:
 
 ```
 mkdir flask_blog
